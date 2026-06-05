@@ -1,4 +1,3 @@
-# Python
 # My Python Learning Journey
 
 Hi there! Welcome to my Python repository.
