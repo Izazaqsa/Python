@@ -21,9 +21,6 @@ I don't just read about Python here. I **write code, break things, fix them, and
 ## What's inside?
 
 Everything is organized into folders, step by step — almost like chapters in a book.
-
-This is a **learning repo**, not a polished product. You'll see typos in file names sometimes (like `leaf-year` instead of `leap-year`, or `caesor-chiper` instead of `caesar cipher`). That's normal when you're learning — and it's part of the journey.
-
 Feel free to explore, copy ideas, and run the scripts on your own machine.
 
 Happy coding!
